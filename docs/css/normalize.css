@@ -422,3 +422,25 @@ td,
 th {
   padding: 0;
 }
+
+.aknowledgments_img{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 100px;
+}
+
+.aknowledgments{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+td {
+  border-style : hidden!important;
+}
+
+tr {
+  width: 100%;
+}
