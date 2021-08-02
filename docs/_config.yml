@@ -1,6 +1,7 @@
 # Setup
-title:        Lifting from the deep
-tagline:      Description of the Lifting from the Deep paper.
+title:        "Lifting from the Deep: Convolutional 3D Pose Estimation from a Single Image"
+tagline:      Denis Tome - Chris Russell - Lourdes Agapito
+conference:   "Conference on Computer Vision and Pattern Recognition (CVPR) 2017"
 baseurl:      "/Lifting-from-the-Deep-release"
 paginate:     1
 locale:       "en"
